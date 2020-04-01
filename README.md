@@ -1,8 +1,15 @@
 # Overflow
 
-Overflow is an addon or plugin for Endless Sky that adds new maps, races, factions, ships, outfits and missions as well as new fun mechanics.
+In investigating the disappearance of "The Knight" comes a calling beyond home.
 
-Overflow is NOT an expansion to Endless Sky. Instead Overflow breaks away from Endless Sky, using its own lore and style and introduces new philosophies to the game. The player will spend a large majority away from the Milky Way galaxy.
+# Features
+* 4 Full Campaigns
+* 6 New Maps
+* +48 Usable Ships
+* +100 Usable Outfits
+* New Mission Types
+* New In-Universe Mechanic
+* A completely seperate lore with new philosophies
 
 *For more information on actual content in Overflow visit the [wiki](https://endless-sky-overflow.fandom.com/wiki/Overflow_Wiki).*
 
